@@ -1,7 +1,7 @@
 # - PSx-Classic-MOD -
 -----------------
 -----------------
-Download the Full Archive from my Private Server here: link coming soon
+Download the Full Archive from my Private Server here: https://os5.mycloud.com/action/share/43ce7929-9370-4ff5-b561-b26343c135d8
 -
 or the standard Archive from my Google Drive here: https://drive.google.com/drive/folders/1unEfggC5DOYE1XJ7LtRxlccY30BirY9m?usp=sharing
 -
