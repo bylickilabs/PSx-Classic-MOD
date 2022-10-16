@@ -1,7 +1,7 @@
 # PSx-Classic-MOD
 
-Download the archive from my Private Server Here: 
-Link available soon
+Download the archive from my Private Server Here: Link available soon 
+or from my                     Google Drive Here: Link available soon 
 
 Extract it to your NTFS stick.
 
@@ -14,5 +14,6 @@ All BIOS files have been added to the mod, as well as all cover art for your fut
 
 Games that are still being transferred to your PC after checking again can be deleted. These are incorrect or not supported. Pay attention to PAL or NTSC
 
-Your retro games intended for the PSx go in the Emus folder. A seperator folder must be created for each emulator. 
+Your Retro Games intended for the PSx go in the Emus folder. 
+A seperator folder must be created for each emulator. 
 (See screenshots)
