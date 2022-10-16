@@ -1,5 +1,4 @@
-# PSx-Classic-MOD
--
+# - PSx-Classic-MOD -
 -----------------
 -----------------
 Download the Full Archive from my Private Server here: link coming soon
@@ -15,7 +14,7 @@ www.bylickilabs.de
 -------------------
 -------------------
 Extract it to your NTFS stick.
-------------------------------
+-
 !!!ATTENTION!!! 
 Name your stick with SONY.
 -
