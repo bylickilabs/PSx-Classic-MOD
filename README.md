@@ -8,9 +8,13 @@ or the standard Archive from my Google Drive here: https://drive.google.com/driv
 or via Torrent Here
 -
 Download Core: coming soon
+-
 Download Cover: coming soon
+-
 Download Emus: coming soon
+-
 Download FULL_PSx: coming soon
+-
 Download Standard_PSx: coming soon
 -
 The Password to unpack the archive is: 
