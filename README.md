@@ -5,6 +5,7 @@ Download the Full Archive from my Private Server here: https://os5.mycloud.com/a
 -
 or the standard Archive from my Google Drive here: https://drive.google.com/drive/folders/1unEfggC5DOYE1XJ7LtRxlccY30BirY9m?usp=sharing
 -
+or via Torrent Here: coming soon
 -
 The Password to unpack the archive is: 
 -
