@@ -20,7 +20,7 @@ Name your stick with SONY.
 -
 After unpacking on the stick, your PS Classic is ready for use.
 -
-All BIOS files have been added (FULL ARCHIVE) to the mod, as well as all cover art for your future PSx Backup ROMS. 
+All Cores files have been added (FULL ARCHIVE) to the mod, as well as all cover art for your future PSx Backup ROMS. 
 -
 Psx games come in the Transfer folder, depending on how many game backups you add from your collection,
 -
