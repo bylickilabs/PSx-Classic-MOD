@@ -3,7 +3,7 @@
 -----------------
 Download the Full Archive from my Private Server here: link coming soon
 -
-or the standard Archive from my Google Drive here: Link available soon
+or the standard Archive from my Google Drive here: https://drive.google.com/drive/folders/1unEfggC5DOYE1XJ7LtRxlccY30BirY9m?usp=sharing
 -
 -
 The Password to unpack the archive is: 
