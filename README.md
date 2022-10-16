@@ -3,7 +3,7 @@
 -----------------
 Download the archive from my Private Server Here: Link available soon
 -
-Link available soon or from my Google Drive Here: Link available soon 
+or from my Google Drive Here: Link available soon 
 -
 -------------------
 -------------------
