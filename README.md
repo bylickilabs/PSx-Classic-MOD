@@ -7,15 +7,15 @@ or the standard Archive from my Google Drive here: https://drive.google.com/driv
 -
 or via Torrent Here
 -
-Download Core: coming soon
+Download Core: https://anonfiles.com/4f54T8C9ya/cores.rar_torrent
 -
-Download Cover: coming soon
+Download Cover: https://anonfiles.com/6c52T5Cfy8/covers.rar_torrent
 -
-Download Emus: coming soon
+Download Emus: https://anonfiles.com/D556TeC4yd/Emus.rar_torrent
 -
-Download FULL_PSx: coming soon
+Download FULL_PSx: https://anonfiles.com/Ec5bTfCbye/FULL_PSx.rar_torrent
 -
-Download Standard_PSx: coming soon
+Download Standard_PSx: https://anonfiles.com/I75dT5Cay4/Standard_PSx.rar_torrent
 -
 The Password to unpack the archive is: 
 -
