@@ -18,7 +18,8 @@ All BIOS files have been added to the mod, as well as all cover art for your fut
 -
 Games that are still being transferred to your PC after checking again can be deleted. These are incorrect or not supported. Pay attention to PAL or NTSC
 -
-Your Retro Games intended for the PSx go in the Emus folder. 
+Your Retro Games intended for the PSx go in the Emus folder.
+-
 A seperator folder must be created for each emulator. 
 (See screenshots)
 -
