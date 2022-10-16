@@ -1,9 +1,12 @@
 # PSx-Classic-MOD
 
-Download the archive from Here: Link available soon
+Download the archive from my Private Server Here: 
+Link available soon
 
 Extract it to your NTFS stick.
-!!!DANGER!!! Name your stick SONY.
+
+!!!ATTENTION!!! 
+Name your stick with SONY.
 
 After unpacking on the stick, your PS Classic is ready for use.
 
