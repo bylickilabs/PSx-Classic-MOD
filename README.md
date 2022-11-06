@@ -12,7 +12,7 @@ or via Torrent ▼Here▼
 - Download Emus: [DOWNLOAD](https://anonfiles.com/D556TeC4yd/Emus.rar_torrent)
 - Download FULL_PSx: [DOWNLOAD](https://anonfiles.com/Ec5bTfCbye/FULL_PSx.rar_torrent)
 - Download Standard_PSx: [DOWNLOAD](https://anonfiles.com/I75dT5Cay4/Standard_PSx.rar_torrent)
-- 
+
 ### The Password to unpack the archive is: 
 |www.bylickilabs.de|
 |---|
