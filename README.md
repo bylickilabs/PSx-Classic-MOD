@@ -5,14 +5,14 @@
 
 - or the standard Archive from my Google Drive here: [DOWNLOAD](https://drive.google.com/drive/folders/1unEfggC5DOYE1XJ7LtRxlccY30BirY9m?usp=sharing)
 
-or via Torrent |Here:|
-|---|
+or via Torrent ▼Here▼
 
 - Download Core: [DOWNLOAD](https://anonfiles.com/4f54T8C9ya/cores.rar_torrent)
 - Download Cover: [DOWNLOAD](https://anonfiles.com/6c52T5Cfy8/covers.rar_torrent)
 - Download Emus: [DOWNLOAD](https://anonfiles.com/D556TeC4yd/Emus.rar_torrent)
 - Download FULL_PSx: [DOWNLOAD](https://anonfiles.com/Ec5bTfCbye/FULL_PSx.rar_torrent)
 - Download Standard_PSx: [DOWNLOAD](https://anonfiles.com/I75dT5Cay4/Standard_PSx.rar_torrent)
+- 
 ### The Password to unpack the archive is: 
 |www.bylickilabs.de|
 |---|
