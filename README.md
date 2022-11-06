@@ -7,7 +7,7 @@ or the standard Archive from my Google Drive here: [DOWNLOAD](https://drive.goog
 
 or via Torrent Here
 -
-Download Core: [DOWNLOAD](https://anonfiles.com/4f54T8C9ya/cores.rar_torrent)
+### Download Core: [DOWNLOAD](https://anonfiles.com/4f54T8C9ya/cores.rar_torrent)
 -
 Download Cover: [DOWNLOAD](https://anonfiles.com/6c52T5Cfy8/covers.rar_torrent)
 -
