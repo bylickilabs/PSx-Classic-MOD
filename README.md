@@ -17,12 +17,9 @@ or via Torrent ▼Here▼
 |www.bylickilabs.de|
 |---|
 
-A Recorded Clip do can see Here:
--
-Before... [VIDEO](https://youtu.be/3hPsTf8T3FY)
--
-Update 20.06.2022 Here... [VIDEO](https://youtu.be/wU1lTr8CJCA)
--------------------
+### A Recorded Clip do can see Here:
+- Before... [VIDEO](https://youtu.be/3hPsTf8T3FY)
+- Update 20.06.2022 Here... [VIDEO](https://youtu.be/wU1lTr8CJCA)
 -------------------
 ### Extract it to your NTFS stick.
 |!!!ATTENTION!!!|
