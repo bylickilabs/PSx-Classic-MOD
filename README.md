@@ -14,34 +14,25 @@ or via Torrent Here
 ### The Password to unpack the archive is: 
 |www.bylickilabs.de|
 |---|
--
--
+
 A Recorded Clip do can see Here:
 -
-Before... https://youtu.be/3hPsTf8T3FY
+Before... [VIDEO](https://youtu.be/3hPsTf8T3FY)
 -
-Update 20.06.2022 Here... https://youtu.be/wU1lTr8CJCA
+Update 20.06.2022 Here... [VIDEO](https://youtu.be/wU1lTr8CJCA)
 -------------------
 -------------------
 ### Extract it to your NTFS stick.
 |!!!ATTENTION!!!|
 |---|
-Name your stick with SONY.
--
-After unpacking on the stick, your PS Classic is ready for use.
--
-All Cores files have been added (FULL ARCHIVE) to the mod, as well as all cover art for your future PSx Backup ROMS. 
--
-Psx games come in the Transfer folder, depending on how many game backups you add from your collection,
--
-the process can take a little while. After this is done, the accepted games are no longer in the Transfer folder.
--
-These are now in a different folder with the appropriate cover.
--
-Games that are still being transferred to your PC after checking again can be deleted. These are incorrect or not supported. Pay attention to PAL or NTSC
--
-Your Retro Games intended for the PSx go in the Emus folder.
--
-A seperator folder must be created for each emulator. 
+### Name your stick with SONY.
+- After unpacking on the stick, your PS Classic is ready for use.
+- All Cores files have been added (FULL ARCHIVE) to the mod, as well as all cover art for your future PSx Backup ROMS. 
+- Psx games come in the Transfer folder, depending on how many game backups you add from your collection,
+- the process can take a little while. After this is done, the accepted games are no longer in the Transfer folder.
+- These are now in a different folder with the appropriate cover.
+- Games that are still being transferred to your PC after checking again can be deleted. These are incorrect or not supported. Pay attention to PAL or NTSC
+- Your Retro Games intended for the PSx go in the Emus folder.
+- A seperator folder must be created for each emulator. 
 (See screenshots)
--
+---
