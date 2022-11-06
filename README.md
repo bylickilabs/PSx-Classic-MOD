@@ -23,9 +23,9 @@ Before... https://youtu.be/3hPsTf8T3FY
 Update 20.06.2022 Here... https://youtu.be/wU1lTr8CJCA
 -------------------
 -------------------
-Extract it to your NTFS stick.
--
-!!!ATTENTION!!! 
+### Extract it to your NTFS stick.
+|!!!ATTENTION!!!|
+|---|
 Name your stick with SONY.
 -
 After unpacking on the stick, your PS Classic is ready for use.
